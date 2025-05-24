@@ -1,0 +1,20 @@
+[
+  {
+    "eid": 22,
+    "ename": "radha",
+    "email": "sairadha@gmail.com",
+    "depart": "IT",
+    "designation": "associate",
+    "salary": 70000,
+    "joining_date": "07/28/2023"
+  },
+  {
+    "eid": 33,
+    "ename": "pavan",
+    "email": "pavan@gmail.com",
+    "depart": "Power",
+    "designation": "lead",
+    "salary": 45000,
+    "joining_date": "06/24/2023"
+  }
+]
